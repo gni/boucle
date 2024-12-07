@@ -4,19 +4,19 @@ Gem::Specification.new do |spec|
   spec.name = "boucle"
   spec.version = "0.1.0"
   spec.authors = ["Lucian"]
-  spec.email = ["42606+exaluc@users.noreply.github.com"]
+  spec.email = ["42606+gni@users.noreply.github.com"]
 
   spec.summary = "Boucle tailwindcss for jekyll"
   spec.description = "posts, notes, code snippets, data"
-  spec.homepage = "https://github.com/exaluc/boucle"
+  spec.homepage = "https://github.com/gni/boucle"
   spec.license = "MIT"
   spec.required_ruby_version = ">= 2.6.0"
 
   spec.metadata["allowed_push_host"] = "https://github.com"
 
   spec.metadata["homepage_uri"] = spec.homepage
-  spec.metadata["source_code_uri"] = "https://github.com/exaluc/boucle"
-  spec.metadata["changelog_uri"] = "https://github.com/exaluc/boucle/CHANGELOG.md"
+  spec.metadata["source_code_uri"] = "https://github.com/gni/boucle"
+  spec.metadata["changelog_uri"] = "https://github.com/gni/boucle/CHANGELOG.md"
 
   # Specify which files should be added to the gem when it is released.
   # The `git ls-files -z` loads the files in the RubyGem that have been added into git.

@@ -19,7 +19,7 @@ Before you can contribute, you will need:
 2. **Clone the forked repository** to your local machine. Navigate to your GitHub repositories and open the forked repository called `<Your-GitHub-Username>/repository-name`. Click the "Code" button and copy the HTTPS URL. Then open a terminal on your computer, navigate to the directory where you want to save the project and run:
 
     ```bash
-    git clone https://github.com/exaluc/boucle
+    git clone https://github.com/gni/boucle
     ```
 
 3. **Navigate to the project directory.**

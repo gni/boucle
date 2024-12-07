@@ -22,7 +22,7 @@ Boucle has been built with simplicity in mind, making it easy to install and use
 
 ## Getting Started
 
-To start using the Boucle theme, you can download or clone it from the GitHub repository [here](https://github.com/exaluc/boucle).
+To start using the Boucle theme, you can download or clone it from the GitHub repository [here](https://github.com/gni/boucle).
 
 After downloading, follow the instructions in the README file to install and configure your new Jekyll site with the Boucle theme.
 
@@ -30,7 +30,7 @@ After downloading, follow the instructions in the README file to install and con
 
 As an open-source project, we welcome and encourage contributions from the community. Whether you've found a bug, have a feature request, or have made improvements to the theme, we'd love to hear from you.
 
-You can contribute to Boucle by creating an issue or making a pull request on our [GitHub page](https://github.com/exaluc/boucle).
+You can contribute to Boucle by creating an issue or making a pull request on our [GitHub page](https://github.com/gni/boucle).
 
 ## License
 

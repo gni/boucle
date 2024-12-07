@@ -21,7 +21,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/exaluc/boucle.git"
+    "url": "git+https://github.com/gni/boucle.git"
   },
   "keywords": [
     "static",
@@ -30,10 +30,10 @@
     "html",
     "tailwindcss"
   ],
-  "author": "exaluc",
+  "author": "gni",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/exaluc/boucle/issues"
+    "url": "https://github.com/gni/boucle/issues"
   },
-  "homepage": "https://github.com/exaluc/boucle#readme"
+  "homepage": "https://github.com/gni/boucle#readme"
 }
