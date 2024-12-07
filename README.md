@@ -8,7 +8,7 @@ To install the Boucle theme on your Jekyll site, follow these steps:
 
 1. Download or clone this repository
    ```
-   $ git clone https://github.com/exaluc/boucle.git
+   $ git clone https://github.com/gni/boucle.git
    ```
 
 2. Set the configs vars in your Jekyll site's `_config.yml`
@@ -46,12 +46,12 @@ After installing the theme, you can customize it to suit your needs. Boucle prov
 | `author.name`           | 'Lucian'                         | The author's name.                            |
 | `author.image`          | 'https://...'                    | The URL to the author's image.                |
 | `author.description`    | 'Open source enthusiast.'        | The author's description.                     |
-| `author.twitter`        | 'exaluc'                         | The author's Twitter handle.                  |
-| `author.github`         | 'exaluc'                         | The author's GitHub username.                 |
+| `author.twitter`        | 'gni'                         | The author's Twitter handle.                  |
+| `author.github`         | 'gni'                         | The author's GitHub username.                 |
 
 ## Contributing
 
-Bug reports and pull requests are welcome on GitHub at https://github.com/exaluc/boucle. This project is intended to be a safe, welcoming space for collaboration, and contributors are expected to adhere to the [code of conduct](https://github.com/exaluc/boucle/blob/main/CODE_OF_CONDUCT.md).
+Bug reports and pull requests are welcome on GitHub at https://github.com/gni/boucle. This project is intended to be a safe, welcoming space for collaboration, and contributors are expected to adhere to the [code of conduct](https://github.com/gni/boucle/blob/main/CODE_OF_CONDUCT.md).
 
 ## License
 
@@ -59,13 +59,13 @@ The theme is available as open source under the terms of the [MIT License](https
 
 ## Code of Conduct
 
-Everyone interacting in the Boucle project's codebases, issue trackers, chat rooms and mailing lists is expected to follow the [code of conduct](https://github.com/exaluc/boucle/blob/main/CODE_OF_CONDUCT.md).
+Everyone interacting in the Boucle project's codebases, issue trackers, chat rooms and mailing lists is expected to follow the [code of conduct](https://github.com/gni/boucle/blob/main/CODE_OF_CONDUCT.md).
 
 
 ## Author
 
-- [Lucian BLETAN](https://github.com/exaluc)
+- [Lucian BLETAN](https://github.com/gni)
 
 Distributed under the MIT license. See ``LICENSE`` for more information.
 
-[Boucle](https://github.com/exaluc/boucle)
+[Boucle](https://github.com/gni/boucle)
